@@ -1,0 +1,8 @@
+
+.tscircuit
+*.__tmp_entrypoint.tsx
+dist
+*storybook.log
+storybook-static
+.idea
+node_modules
